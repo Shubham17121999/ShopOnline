@@ -33,7 +33,7 @@ Introducing ShopOnline, your ultimate destination for a comprehensive shopping e
 
 ## Screenshots
 
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshots/main-menus)
 ![Product Selection](screenshots/product-selection.png)
 ![Cart](screenshots/cart.png)
 ![Checkout](screenshots/checkout.png)
