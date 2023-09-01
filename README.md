@@ -3,7 +3,7 @@
 
 ![ShopOnline Logo](shoponline-logo.png)
 
-Introducing ShopOnline, your ultimate destination for a comprehensive shopping experience spanning a wide range of products, from groceries and electronics to clothing and more. Drawing inspiration from esteemed retail giants like Walmart, our primary objective is to develop an intuitive and user-centric console-based shopping platform. This portal empowers customers to seamlessly explore, choose, and purchase their desired products.
+Introducing ShopOnline, your ultimate destination for a comprehensive shopping experience spanning a wide range of products, from groceries and electronics to clothing and more. Drawing inspiration from esteemed retail giants like Walmart, our primary objective is to develop an intuitive and user-centric console-based shopping platform. This portal empowers customers to seamlessly explore, choose, and purchase their desired products..
 
 ## Core Objectives
 
