@@ -38,10 +38,10 @@ public class Main {
 		int choice = 0;
 		try {
 			do {
-				System.out.println("Press 1 add the product");
-				System.out.println("Press 2 view all the product");
-				System.out.println("Press 3 delete the product");
-				System.out.println("Press 4 update the product");
+				System.out.println("Press 1 add the products");
+				System.out.println("Press 2 view all the products");
+				System.out.println("Press 3 delete the products");
+				System.out.println("Press 4 update the products");
 				System.out.println("Press 5 view all customers");
 				System.out.println("Press 6 to view all transactions");
 				System.out.println("Press 7 to log out");
