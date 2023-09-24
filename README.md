@@ -1,9 +1,9 @@
 # ShopOnline
 # ShopOnline: Your Comprehensive E-Commerce Solution
 
-![ShopOnline Logo](shoponline.png)
+![ShopOnline Logo](Blueberryicon2.png)
 
-Introducing ShopOnline, your ultimate destination for a comprehensive shopping experience spanning a wide range of products, from groceries and electronics to clothing and more. Drawing inspiration from esteemed retail giants like Walmart, our primary objective is to develop an intuitive and user-centric console-based shopping platform. This portal empowers customers to seamlessly explore, choose, and purchase their desired products.
+Introducing ShopOnline, your ultimate destination for a comprehensive shopping experience spanning a wide range of products, from groceries and electronics to clothing and more. Drawing inspiration from esteemed retail giants like Walmart, our primary objective is to develop an intuitive and user-centric console-based shopping platform. This portal empowers customers to seamlessly explore, choose, and purchase their desired products..
 
 ## Core Objectives
 
@@ -31,12 +31,9 @@ Introducing ShopOnline, your ultimate destination for a comprehensive shopping e
 
 2. Compile and run the Java application to launch the console-based shopping platform.
 
-## Screenshots
+## Deployed Link
 
-![Main Menu](screenshots/main-menus)
-![Product Selection](screenshots/product-selection.png)
-![Cart](screenshots/cart.png)
-![Checkout](screenshots/checkout.png)
+https://drive.google.com/file/d/1Qg4okSZMSi1vp3CCDyEaSsf-NmsQLm8M/view
 
 ## Contributions
 
