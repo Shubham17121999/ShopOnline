@@ -1,7 +1,7 @@
 # ShopOnline
 # ShopOnline: Your Comprehensive E-Commerce Solution
 
-![ShopOnline Logo](Blueberryicon2.png)
+![ShopOnline Logo](Shoponline.png)
 
 Introducing ShopOnline, your ultimate destination for a comprehensive shopping experience spanning a wide range of products, from groceries and electronics to clothing and more. Drawing inspiration from esteemed retail giants like Walmart, our primary objective is to develop an intuitive and user-centric console-based shopping platform. This portal empowers customers to seamlessly explore, choose, and purchase their desired products..
 
@@ -33,7 +33,7 @@ Introducing ShopOnline, your ultimate destination for a comprehensive shopping e
 
 ## Deployed Link
 
-https://drive.google.com/file/d/1Qg4okSZMSi1vp3CCDyEaSsf-NmsQLm8M/view
+https://drive.google.com/file/d/1t83rlfpMtA0YkvWBFC6lMmiAor1uBHYw/view?usp=sharing
 
 ## Contributions
 
